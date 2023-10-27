@@ -1,4 +1,4 @@
-# Welcome to 'Androiders Buddy'! :smile:
+# Welcome to 'Androiders Buddy'! :smile: test
 
 We welcome you to our project where you can contribute to the project by developing dedicated apps for a particular dedicated topic which will make you acquainted with that topic thoroughly .
 
